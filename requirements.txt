@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+selenium
+langchain
+faiss-cpu
+numpy
+streamlit
+python-dotenv
+google-generativeai
+configparser
